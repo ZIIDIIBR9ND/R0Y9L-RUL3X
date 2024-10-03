@@ -1,7 +1,7 @@
 #----------------------------[IMPORT/MODULE]-----------------------------------#
 import requests,bs4,json,os,sys,uuid,random,datetime,time,re
 import urllib3,rich,base64
-os.system('xdg-open https://www.facebook.com/100076161716774
+os.system('xdg-open https://www.facebook.com/100076161716774')
 print('\n \033[1;92m[✓]\r\r\033[1;92m WELCOME. TO R0Y9L RUL3X T00L ....!')
 from rich.markdown import Markdown as mark
 from rich.columns import Columns as col
